@@ -1,0 +1,18 @@
+:root{
+    --color-primario:#057D87;
+    --color-secundario:rgb(4, 73, 80);
+    --danger-color:#DA310D;
+    --dark-color:#333;
+    --dark-color2:#555555;
+    --fondo-color:#222222; //no funca
+    --text-color:#eee;
+}
+
+$color-primario: var(--color-primario);
+$color-secundario: var(--color-secundario);
+$danger-color: var(--danger-color);
+$fondo-color: var (--fondo-color);
+$dark-color: var(--dark-color);
+$dark-color2: var(--dark-color2);
+$text-color: var(--text-color);
+

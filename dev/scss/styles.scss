@@ -1,0 +1,38 @@
+//guias de estilos
+@import 'config/colors';
+@import 'config/fonts';
+
+//Mixins
+@import 'mixins/breackpoint.scss';
+@import 'mixins/reset-list.scss';
+
+//Estilos base
+@import 'base/normalize';
+@import 'base/base';
+
+//Block
+@import 'blocks/header.scss';
+@import 'blocks/topbar';
+@import 'blocks/toggle-menu';
+@import 'blocks/menu';
+@import 'blocks/logo';
+@import 'blocks/sidebar.scss';
+@import 'blocks/main.scss';
+@import 'blocks/lightbox';
+@import 'blocks/forms';
+@import 'blocks/title';
+@import 'blocks/social';
+
+
+//Pages
+@import 'pages/about';
+@import 'pages/contact';
+
+
+
+
+
+
+
+
+
